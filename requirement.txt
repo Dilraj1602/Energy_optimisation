@@ -1,6 +1,9 @@
-streamlit
-scikit-learn
-pysolar
-xgboost
-numpy
 pandas
+numpy
+scikit-learn
+xgboost
+pysolar
+matplotlib
+pytz
+streamlit
+joblib
