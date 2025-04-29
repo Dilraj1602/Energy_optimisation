@@ -50,6 +50,9 @@ git clone https://github.com/Dilraj1602/Energy_optimisation.git
 # 2. Navigate to the project directory
 cd Energy_optimisation
 
+# 3. Install dependencies
+pip install -r requirements.txt
+
 # 4. Run the Streamlit app
 streamlit run app1.py
 ```
